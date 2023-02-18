@@ -10,11 +10,4 @@ Welcome to 奇技淫巧's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   C++/index
