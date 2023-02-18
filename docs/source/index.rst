@@ -10,4 +10,4 @@ Welcome to 奇技淫巧's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   C++/index
+   Cpp/index
